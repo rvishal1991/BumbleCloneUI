@@ -55,9 +55,9 @@ struct User: Codable, Identifiable {
     
     var images:[String]{
         [
-            "https://picsum.photos/500/500",
+            "https://picsum.photos/400/600",
             Constants.randomImage,
-            "https://picsum.photos/700/700"
+            "https://picsum.photos/800/1000"
         ]
     }
     
